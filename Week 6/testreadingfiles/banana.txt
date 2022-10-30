@@ -1,5 +1,3 @@
-I like
-to eat
-apples
-and
+apple
 banananananz
+orange 1            3
